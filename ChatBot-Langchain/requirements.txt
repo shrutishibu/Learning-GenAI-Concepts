@@ -5,6 +5,7 @@ faiss-cpu
 python-dotenv
 pandas
 langgraph
+pydantic
 
 #for tools
 duckduckgo-search
